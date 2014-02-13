@@ -1,0 +1,7 @@
+digraph G1 {
+  concentrate = true;
+  EditActivity -> Manager;
+  HelloAndroidActivity -> Manager;
+  Manager -> TodoManager;
+  TodoManager -> SQLiteDatabase;
+}

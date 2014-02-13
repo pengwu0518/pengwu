@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Todo</string>
+    <string name="hello">Hello todo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="str_new">new</string>
+    <string name="add">add</string>
+    <string name="select">select</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="cancle">cancle</string>
+  <string name="title">Title:</string>
+  <string name="content">Content:</string>
+  <string name="createTime">CreateTime:</string>
+  <string name="empty">Empty</string>
+</resources>
